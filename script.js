@@ -19,7 +19,7 @@ function addTask(event){
     
 
 }
-    // Hello it's me Vaibhav suryavanshi please dont copy my code!!
+   
 
 listContainer.addEventListener("click", function(e){
     if(e.target.tagName === "LI"){
